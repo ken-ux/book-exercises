@@ -4,4 +4,7 @@ This repository contains _all_ programming exercises for the [_Programming Skill
 
 Solutions can be found in the `solution` branch.
 
-This is a test change!
+Test
+:----------------
+|Table Test 1 | **Woohoo!**
+|Table Test 2 | '>>'
