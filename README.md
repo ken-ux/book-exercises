@@ -7,4 +7,4 @@ Solutions can be found in the `solution` branch.
 |Test | Test 2 |
 |:------------| :-------|
 |Table Test 1 | **Yay** |
-|Table Test 2 | '>>'    |
+|Table Test 2 | ``>>``  |
